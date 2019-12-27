@@ -2,6 +2,7 @@ package com.decorator;
 
 /**
  * Created by Administrator on 2016/7/11.
+ * 基类
  */
 public abstract class Beverage {
 
@@ -11,6 +12,6 @@ public abstract class Beverage {
         return description;
     }
 
-    public abstract double COST();
+    public abstract double cost();
 
 }
