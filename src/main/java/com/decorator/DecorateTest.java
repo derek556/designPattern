@@ -21,7 +21,6 @@ public class DecorateTest {
         System.out.println(whip.getDescription()+" = "+whip.cost()+"$");
 
 
-
     }
 
 }
